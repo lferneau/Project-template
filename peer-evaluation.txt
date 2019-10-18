@@ -1,0 +1,38 @@
+Name: Landon Ferneau
+Date: 18 October 2019
+Project: Space Shooter
+Peer's repository: https://github.com/Ethan-source/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+
+ I learned that you could use multiple characters in a single sprite.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ I honestly didn't see anything I would apply to my projects.
+
+What suggestions would you have for your peer to improve his/her code?
+
+ You could have music, single characters per sprite so that the boundaries make more sense, and more interesting visuals.
+
+What could have been clearer or better commented?
+
+ The ending could be clearer with a victory message, but that was not required.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ Forking it was confusing because it kept telling me it was not committed to the master.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes it does.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ It seemed descriptive enough to me.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+You perfectly hit all of the requirements of the assignment. 

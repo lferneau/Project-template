@@ -1,3 +1,2 @@
-# Project-template
-
-This is a generic Python template designed to get you started on a project for MSCH-C220. I have added a few things that will hopefully be helpful to you.
+#05 Space-Shooter
+The purpose of this assignment was to use the culmination of our new knowledge of collisions, animation, and importing media to create our own rudimentary shooting game. Some crucial things I've learned during the process of creating this game were how to bug-fix, and how to create asset folders whose contents can be called upon using code. My game is like a simple version of Galaga where your spaceship shoots the aliens until you win the game. 
